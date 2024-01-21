@@ -1,4 +1,4 @@
-//to fixed used to float number
+// //to fixed used to float number
 var num1 =0.1;
 var num2 = 0.2;
 var num3 = num1+num2;
@@ -26,13 +26,13 @@ var app8 = app6 / app7;
 app8 = app8.toFixed(1);
 app8 = parseFloat(app8);
 
-//practice problem 1
+// //practice problem 1
 var momPrice = 1000;
 var orange_applesPrice = 700;
 var saveMoney = momPrice-orange_applesPrice;
 console.log(saveMoney); //300
 
-//practice problem 2
+// //practice problem 2
 var a1=75.25;
 var a2=65;
 var a3=80;
@@ -44,13 +44,13 @@ sum=sum.toFixed(2)
 sum=parseFloat(sum);
 console.log(sum); //71.04
 
-// practice Problem 3
+ // practice Problem 3
 var fstLine="I am going to be";
 var secondLine="an awesome web developer";
 var fullName= fstLine+" "+secondLine;
 console.log(fullName); //I am going to be an awesome web developer
 
-//practice problem 4
+ //practice problem 4
 var num1=119;
 console.log(num1%5); //4
 
